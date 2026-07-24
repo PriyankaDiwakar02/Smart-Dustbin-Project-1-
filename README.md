@@ -30,3 +30,6 @@ This project is an Arduino-based Smart Dustbin that automatically opens its lid 
 
 ## 👩‍💻 Author
 **Priyanka Diwakar**
+## Circuit Diagram
+
+> Circuit diagram has been added to this repository.
